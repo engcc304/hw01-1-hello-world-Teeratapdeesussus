@@ -5,6 +5,5 @@ int main () {
     scanf("%d",&a) ; //TODO: #5 Write your private info into Student-Info.txt
     printf("a=%d,a") ;
     
-  
     return 0 ;
 }//end main function
